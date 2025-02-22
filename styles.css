@@ -1,0 +1,11 @@
+.Fira {
+    font-family: "Fira Code";
+}
+h1, h2 {
+    text-align: center;
+}
+
+#flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
