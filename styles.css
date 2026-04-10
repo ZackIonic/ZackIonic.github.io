@@ -28,23 +28,10 @@ main {
   margin: 0;
 }
 
-.logo-and-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem; /* space between logo and content */
-}
-
 .content {
   margin-top: 1rem;
   flex: 1;
   text-align: left;
-}
-
-#logo {
-  writing-mode: vertical-lr;
-  text-orientation: upright;
-  margin: 0 1rem 0 0;
-  font-size: 3rem;
 }
 
 button {
